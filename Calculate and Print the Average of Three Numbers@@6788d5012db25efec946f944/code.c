@@ -8,3 +8,4 @@ int main() {
     scanf("%f %f %f",&a,&b,&c);
     printf("Average: %.2f",a+b+c/2);
     return 0;
+}

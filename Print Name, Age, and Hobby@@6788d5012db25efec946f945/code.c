@@ -2,10 +2,10 @@
 
 
 int main() {
-    string str
+    char name
     int age;
-    string hobby;
-    scanf("%s",%d",%s",&str,&age,&hobby);
+    char hobby;
+    scanf("%s,%d,%s",&str,&age,&hobby);
     printf("%s,%d,%s",str,age,hobby);
     return 0;
 }

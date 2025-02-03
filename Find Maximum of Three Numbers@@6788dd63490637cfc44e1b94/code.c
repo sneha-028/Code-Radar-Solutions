@@ -15,6 +15,6 @@ int main() {
     else {
         printf("%d",c);
     }
-    }
+    
     return 0;
 }

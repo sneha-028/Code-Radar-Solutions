@@ -14,7 +14,7 @@ else if {
 
 }
 else {
-    printf(" Profit")''
+    printf(" Profit");
 }
     return 0;
 }

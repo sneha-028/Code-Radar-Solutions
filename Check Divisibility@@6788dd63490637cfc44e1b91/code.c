@@ -10,7 +10,7 @@ int main() {
 
     }
 else {
-    printf("Undivisble");
+    printf("Not divisble");
 }
 
     return 0;

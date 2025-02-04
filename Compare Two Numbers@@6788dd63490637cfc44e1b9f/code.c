@@ -8,12 +8,12 @@ int main() {
     { 
         printf("First");
     }
-    else if (b>a)
+    else if (b==a)
     {
-        printf("Second");
+        printf("Equal");
     }
     else {
-        printf("Equal");
+        printf("Second");
 
     }
     

@@ -8,7 +8,7 @@ int main() {
     { 
         printf("First");
     }
-    else if (b==a)
+    else if (a==b)
     {
         printf("Equal");
     }

@@ -8,11 +8,11 @@ int main() {
      {
         printf("First");
     }
-    else if (a==b){
-        printf("Equal");
+    else if (a<b){
+        printf("Second");
     }
     else {
-        printf("Second");
+        printf("Equal");
 
     }
     

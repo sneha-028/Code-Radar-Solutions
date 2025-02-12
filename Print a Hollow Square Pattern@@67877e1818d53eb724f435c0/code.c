@@ -6,8 +6,12 @@ int main () {
     {
         for (j=0;j<=i;j++)
         printf("*");
-        if (i==0||i==a-1&&j==0||j==a-1) {
+        if (i==0||i==a-1) {
             printf("*");
+            else if {
+                for (j==0||j==a-1)
+                printf("*")
+            }
             else {
                 print(" ");
             }

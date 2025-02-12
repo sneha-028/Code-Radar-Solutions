@@ -8,9 +8,9 @@ int main () {
         printf("*");
         if (i==0||i==a-1||j==0||j==a-1) {
             printf("*");
-            else (
+            else {
                 print(" ");
-            )
+            }
         }
     }
     return 0;

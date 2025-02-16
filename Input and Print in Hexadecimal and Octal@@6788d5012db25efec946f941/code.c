@@ -1,5 +1,5 @@
 #include <stdio.h>
-intb main () {
+int main () {
     int a;
     scanf("%d",&a);
     printf("Hexadecimal: %X", a);

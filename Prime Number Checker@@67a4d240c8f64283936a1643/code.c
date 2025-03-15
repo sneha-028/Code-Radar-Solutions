@@ -14,12 +14,3 @@ int isPrime(int n)
     return 1;
 }
 
-int main()
-{
-    int j;
-    scanf("%d", &j);
-
-    int ans = isPrime(j);
-
-    printf("%d", ans);
-}

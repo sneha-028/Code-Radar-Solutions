@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int CheckPrime(int n)
+int isPrime(int n)
 {
     for(int i = 2; i < n; i++)
     {
@@ -19,7 +19,7 @@ int main()
     int j;
     scanf("%d", &j);
 
-    int ans = CheckPrime(j);
+    int ans = isPrime(j);
 
     printf("%d", ans);
 }

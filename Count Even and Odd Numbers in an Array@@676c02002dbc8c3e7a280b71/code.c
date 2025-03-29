@@ -24,7 +24,7 @@ int main() {
     }
     
     // Output the result in the desired format
-    printf( "%d %d ", evenCount oddCount,);
+    printf( "%d %d ", evenCount oddCount);
     
     return 0;
 }

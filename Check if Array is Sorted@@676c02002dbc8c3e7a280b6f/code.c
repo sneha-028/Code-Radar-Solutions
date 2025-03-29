@@ -23,6 +23,6 @@ if (issorted) {
         printf("Not Sorted");
     }
 
-    }
+    
     return 0;
 }

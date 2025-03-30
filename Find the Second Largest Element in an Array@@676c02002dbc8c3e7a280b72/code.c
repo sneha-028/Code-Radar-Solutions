@@ -12,7 +12,7 @@ void bubbleSort(int arr[],int size){
 }
 int main(){
     if (arr[n-2]==arr[0]){
-        printf("-1");
+        printf("-1");}
         else {
 int i,n;
 scanf("%d",&n);
@@ -29,4 +29,4 @@ bubbleSort(arr,n);
         }
 return 0; 
     
-}
+    }

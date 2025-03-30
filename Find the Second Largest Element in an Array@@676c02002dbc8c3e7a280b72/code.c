@@ -19,7 +19,7 @@ scanf("%d",&arr[i]);
 }
 bubbleSort(arr,n);
 
-    printf("%d"  arr[n-2]);
+    printf("%d", arr[n-2]);
 return 0; 
     
 }

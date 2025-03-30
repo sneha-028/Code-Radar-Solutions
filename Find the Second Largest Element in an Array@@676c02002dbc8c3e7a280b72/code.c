@@ -11,6 +11,9 @@ void bubbleSort(int arr[],int size){
     }
 }
 int main(){
+    if (arr[n-2]==arr[0]){
+        printf("-1");
+        else {
 int i,n;
 scanf("%d",&n);
 int arr[n];
@@ -20,9 +23,10 @@ scanf("%d",&arr[i]);
 bubbleSort(arr,n);
 
     printf("%d", arr[n-2]);
-    else if (arr[n-2]==arr[0]){
+    if (arr[n-2]==arr[0]){
         printf("-1");
     }
+        }
 return 0; 
     
 }
